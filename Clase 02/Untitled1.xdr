@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\KevinRios\Clase 02\schemaExample.xsd">
+	<id>123</id>
+	<nombre>Kevin</nombre>
+	<apellido>Rios</apellido>
+	<domicilio>
+		<calle> qwerty</calle>
+		<altura>987</altura>
+	</domicilio>
+</cliente>
