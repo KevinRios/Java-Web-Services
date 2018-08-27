@@ -1,0 +1,15 @@
+XML, SOAP, WSDL, UDDI  --> transmision de inf
+
+HTTP, FTP, SMTP        --> transporte
+
+
+Tipos de WS
+SOAP
+REST
+
+
+
+Con los ws pasa
+
+Una clase se transforma en un ws
+Un metodo se transforma en    operations
