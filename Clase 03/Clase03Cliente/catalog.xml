@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/E:/KevinRios/Clase%2003/WsdlBankingData.wsdl" uri="xml-resources/web-service-references/WsdlBankingData/wsdl/WsdlBankingData.wsdl"/>
+    <system systemId="file:/E:/KevinRios/Clase%2003/LoginRequest.xsd" uri="xml-resources/web-service-references/WsdlBankingData/wsdl/LoginRequest.xsd"/>
+    <system systemId="file:/E:/KevinRios/Clase%2003/LoginResponse.xsd" uri="xml-resources/web-service-references/WsdlBankingData/wsdl/LoginResponse.xsd"/>
+</catalog>
